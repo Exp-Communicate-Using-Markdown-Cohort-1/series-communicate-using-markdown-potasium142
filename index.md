@@ -1,18 +1,14 @@
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```rust
-fn main(){
-  let test_var:i32 = 0;
-}
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-- [x] Turn on GitHub Pages
+- [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
-- [x] Introduce myself to the world
+- [ ] Introduce myself to the world
